@@ -16,7 +16,7 @@
   }
 }
 
-body {
+/* body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
       to bottom,
@@ -32,4 +32,4 @@ body {
 }
 .product-cart:hover{
   transform: scale(1.1); 
-}
+} */
